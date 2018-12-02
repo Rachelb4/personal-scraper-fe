@@ -1,25 +1,25 @@
 * {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Quicksand', Times New Roman;
 }
 
 /* You can completely change the color scheme! Go to https://uigradients.com for gradient inspiration!! */
 body {
-  background-color: #fd746c;
-  background: linear-gradient(45deg,  #fd746c, #ff9068);
-  width: 80%;
+  background-color: black;
+
+  width: 70%;
   margin: auto;
 }
 
 h1 {
-  color: #2B2A2A;
+  color: black;
   text-align: center;
   padding: 15px;
-  font-size: 200%;
+  font-size: 100%;
 }
 
 form {
   margin-bottom: 20px;
-  background-color: #FFDCDA;
+  background-color: #09164a;
   margin: auto;
   display: flex;
   padding: 10px;
@@ -29,7 +29,7 @@ form {
 }
 
 p {
-  color: #2B2A2A;
+  color: black
   width: 55%;
   padding-right: 15px;
 }
@@ -57,7 +57,7 @@ p {
 }
 
 .submit-btn {
-  background-color: #fd746c;
+  background-color: blue;
   color: #fff;
   transition: all 0.5s;
   text-transform: uppercase;
